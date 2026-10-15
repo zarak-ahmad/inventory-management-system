@@ -1,0 +1,10 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/gen/
+src-tauri/resources/app/**
+!src-tauri/resources/app/.gitkeep
+src-tauri/resources/php/**
+!src-tauri/resources/php/.gitkeep
+!src-tauri/resources/php/README.txt
+*.log
